@@ -1,5 +1,5 @@
 one Home
-two home (modified)
-three on (modified)
+two home
+three off
 four the
-five range
+five grid
